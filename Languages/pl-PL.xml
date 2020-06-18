@@ -1016,7 +1016,7 @@ Special thanks to Romuald Marszałek(romuald68@gmail.com), Bladius (KuchtaPC2015
     <String Target="任务栏相关设置" Link="Ustawienia paska zadań"/>
     <String Target="关闭商店应用推广（by 、Cloud.）" Link="Wyłącz Windows Store app promotion (by Cloud.)"/>
     <String Target="关闭多嘴的小娜（by 朽木）" Link="Wyłącz Cortana (by XiuMu)"/>
-    <String q="" Target="显示首次登录动画（by intionwun &amp; 组策略编辑器）" Link="Show-Enable First Logon Animation (by intionwun &amp; Group Policy Editor)"/>
+    <String q="" Target="显示首次登录动画（by intionwun &amp; 组策略编辑器）" Link="Pokaż-Włącz animację pierwszego logowania (by intionwun &amp; Edytor zasad grupy)"/>
     <String Target="关闭游戏录制工具（by 、Cloud.）" Link="Wyłącz rejestrator gry (by Cloud.)"/>
     <String Target="启用 Windows 照片查看器（by 心之所向）" Link="Włącz przeglądarke fotografii Windows"/>
     <String Target="安全相关设置" Link="Ustawienia bezpieczeństwa"/>
@@ -1038,6 +1038,7 @@ Special thanks to Romuald Marszałek(romuald68@gmail.com), Bladius (KuchtaPC2015
     <String Target="禁用账号登录日志报告（by 溯汐潮）" Link="Wy³¹cz zapisywanie logowania u¿ytkownika (by Hell Cabrite)"/>
     <String Target="遇到弹出窗口时始终在新选项卡中打开弹出窗口（by 溯汐潮）" Link="Zawsze pokazuj pop-up'y w nowej karcie (by Hell Cabrite)"/>
     <String Target="锁定Internet Explorer工具栏（by 溯汐潮）" Link="Zablokuj toolbar Internet Explorer'a (by Hell Cabrite)"/>
+    <String Target="shift右击时显示在此处打开命令窗口（by sandtechnology）" Link="Pokaż tutaj, gdy klikniesz prawym przyciskiem myszy, aby otworzyć okno poleceń （by sandtechnology）"/>
     <String Target="隐藏NTFS蓝色双箭头压缩标识（by IT之家）" Link="Ukryj niebiesk¹ podwójn¹ strza³kê kompresji NTFS (by IT Home)"/>
     <String Target="隐藏语言栏上的帮助按钮（by 溯汐潮）" Link="Ukryj przycisk Pomoc paska jêzyka (by Hell Cabrite)"/>
     <String Target="Windows 7体验" Link="Windows 7 Experience"/>
